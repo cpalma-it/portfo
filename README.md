@@ -7,5 +7,3 @@ $ flask run
 ```
 
 
-*visist https://zerotomastery.io/ for more*
-
